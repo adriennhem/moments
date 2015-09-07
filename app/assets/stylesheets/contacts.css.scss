@@ -1,0 +1,16 @@
+// Place all the styles related to the Contacts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+// "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+.index-contacts {
+	margin: 0 auto;
+}
+
+img.profile-picture {
+	border-radius: 150px 150px;
+}
